@@ -4,7 +4,7 @@
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning java, php
 - 💞️ I’m looking to collaborate on software industries
-- 📫 How to reach me : widiasttuti.tangsel@gmail.com
+- 📫 How to reach me : widiastuti.tangsel@gmail.com
 
 ## 🤝 Connect with me:
 
