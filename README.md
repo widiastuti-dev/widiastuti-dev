@@ -8,13 +8,13 @@
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/widiastuti-tangsel/"><img align="left" src="https://raw.githubusercontent.com/widiastuti-dev/widiastuti-dev/master/assets/linkedin.png" alt="Widiastuti | LinkedIn" width="35px"/></a>
+<a href="https://www.linkedin.com/in/widiastuti-tangsel/"><img align="left" src="https://raw.githubusercontent.com/widiastuti-dev/widiastuti-dev/main/assets/linkedin.png" alt="Widiastuti | LinkedIn" width="35px"/></a>
 
-<a href="https://instagram.com/widiiast_"><img align="left" src="https://raw.githubusercontent.com/widiastuti-dev/widiastuti-dev/master/assets/instagram.png" alt="Widiastuti | Instagram" width="35px"/></a>
+<a href="https://instagram.com/widiiast_"><img align="left" src="https://raw.githubusercontent.com/widiastuti-dev/widiastuti-dev/main/assets/instagram.png" alt="Widiastuti | Instagram" width="35px"/></a>
 
-<a href="https://www.facebook.com/share/kpBBFK1iKgmbU9Dj"><img align="left" src="https://raw.githubusercontent.com/widiastuti-dev/widiastuti-dev/master/assets/facebook.png" alt="Widiastuti | Facebook" width="35px"/></a>
+<a href="https://www.facebook.com/share/kpBBFK1iKgmbU9Dj"><img align="left" src="https://raw.githubusercontent.com/widiastuti-dev/widiastuti-dev/main/assets/facebook.png" alt="Widiastuti | Facebook" width="35px"/></a>
 
-<a href="mailto:widiastuti.tangsel@gmail.com"><img align="left" src="https://raw.githubusercontent.com/widiastuti-dev/widiastuti-dev/master/assets/gmail.png" alt="Widiastuti | Gmail" width="35px"/></a>
+<a href="mailto:widiastuti.tangsel@gmail.com"><img align="left" src="https://raw.githubusercontent.com/widiastuti-dev/widiastuti-dev/main/assets/gmail.png" alt="Widiastuti | Gmail" width="35px"/></a>
 
 </br>
 </br>
