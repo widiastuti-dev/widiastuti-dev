@@ -1,15 +1,10 @@
 ### Hi There 😊
 
-- 👋 Hi, I’m @widiastuti-dev
+- 👋 Hi, I’m Widiastuti
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning java, php
 - 💞️ I’m looking to collaborate on software industries
 - 📫 How to reach me : widiasttuti.tangsel@gmail.com
-
-<!---
-widiastuti-dev/widiastuti-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## 🤝 Connect with me:
 
